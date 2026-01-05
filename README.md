@@ -76,7 +76,7 @@
 ## Technical Expertise
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,langchain,pytorch,tensorflow,aws,azure,docker,kubernetes,fastapi,nodejs,react,postgres,redis,chroma,pinecone&perline=13" 
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,azure,docker,kubernetes,fastapi,nodejs,react,postgres,redis,chroma,pinecone,scikitlearn,pandas,numpy,matplotlib,opencv,huggingface,openai,autogpt,git,github,linux,terraform,n8n,zapier,crewai,arduino,raspberrypi&perline=13" 
        style="margin: 1em 0;" />
 </div>
 
