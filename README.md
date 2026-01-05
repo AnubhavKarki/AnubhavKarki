@@ -112,9 +112,6 @@ Beyond designing AI systems, I dedicate time to music, physical fitness, and rea
 
 <div align="center" style="margin-top: 3em;">
   <p style="color: #8b949e; font-size: 0.9em;">
-    Canberra, Australia | BSc Engineering (Robotics & AI)
-  </p>
-  <p style="color: #8b949e; font-size: 0.85em; margin-top: 0.5em;">
-    © 2025 Anubhav Karki
+    Canberra, Australia | © 2025 Anubhav Karki
   </p>
 </div>
