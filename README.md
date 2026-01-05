@@ -162,8 +162,8 @@ Beyond designing AI systems, I dedicate time to music, physical fitness, and rea
 </div>
 
 <div align="center" style="margin: 2em 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnubhavKarki&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc&hide=stars" />
-  <img src="https://github-readme-top-langs.vercel.app/api?username=AnubhavKarki&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=f0f6fc" style="margin-left: 1em;" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AnubhavKarki&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnubhavKarki&layout=compact&theme=radical" style="margin-left: 1em;" />
 </div>
 
 <div align="center">
