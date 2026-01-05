@@ -39,10 +39,10 @@ Beyond designing AI systems, I dedicate time to music, physical fitness, and rea
     <p style="color: #f0f6fc; font-weight: 500; margin-bottom: 0.5em;">
       <a href="https://weedscan.org.au/" target="_blank" style="color: #f0f6fc; text-decoration: none;">CISS – Weed Scan Project</a>
     </p>
-    <p style="color: #8b949e; font-size: 0.95em;">
-      Collaborating with a multidisciplinary team of engineers and scientists from CSIRO to build Weed Scan, a machine learning platform for agricultural monitoring and weed detection.
-    </p>
-  </div>
+<p style="color: #8b949e; font-size: 0.95em;">
+  Collaborating with a multidisciplinary team of engineers and scientists from CSIRO to build Weed Scan, a machine learning platform for agricultural monitoring, weed detection, and Australian biosecurity protection.
+</p>
+
   
   <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5em;">
     <h3 style="color: #58a6ff; margin-top: 0;">Hardware Engineer</h3>
