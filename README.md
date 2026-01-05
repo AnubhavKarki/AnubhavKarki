@@ -125,48 +125,14 @@ Beyond designing AI systems, I dedicate time to music, physical fitness, and rea
 
 <hr style="border: none; border-top: 2px solid #30363d; margin: 2.5em 0;">
 
-## Key Achievements
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5em;">
-  
-  <div style="background: linear-gradient(135deg, #1f6feb 0%, #58a6ff 100%); border-radius: 12px; padding: 1.5em; color: white;">
-    <h4 style="margin-top: 0; font-size: 1.1em;">GovHack Regional Lead (ACT)</h4>
-    <p>Led winning team in national hackathon, delivering production-ready AI solutions.</p>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #10b981 0%, #34d399 100%); border-radius: 12px; padding: 1.5em; color: white;">
-    <h4 style="margin-top: 0; font-size: 1.1em;">ACS EPC Committee Member</h4>
-    <p>Contribute to Australian Computer Society's Engineering Professional Certification.</p>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #f59e0b 0%, #fbbf24 100%); border-radius: 12px; padding: 1.5em; color: white;">
-    <h4 style="margin-top: 0; font-size: 1.1em;">CTF Competitor</h4>
-    <p>B-Sides 2025, Australian Cyber Battle (Rank 15), Australian CyberSec Games 2025</p>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #ef4444 0%, #f87171 100%); border-radius: 12px; padding: 1.5em; color: white;">
-    <h4 style="margin-top: 0; font-size: 1.1em;">SAS Viya Challenge</h4>
-    <p>Ranked 4th ANZ in analytics and data science competition</p>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #8b5cf6 0%, #a78bfa 100%); border-radius: 12px; padding: 1.5em; color: white;">
-    <h4 style="margin-top: 0; font-size: 1.1em;">DeepLearning.ai Mentor</h4>
-    <p>Community mentor and tester for Andrew Ng's AI courses</p>
-  </div>
-  
-  <div style="background: linear-gradient(135deg, #06b6d4 0%, #0ea5e9 100%); border-radius: 12px; padding: 1.5em; color: white;">
-    <h4 style="margin-top: 0; font-size: 1.1em;">4x Dean's Award</h4>
-    <p>Academic excellence across engineering coursework</p>
-  </div>
-
-</div>
-
 <div align="center" style="margin: 3em 0; padding: 2em; background: #161b22; border-radius: 12px; border: 1px solid #30363d;">
   <h3 style="color: #58a6ff; margin-top: 0;">Let's Build the Future</h3>
   <p style="color: #c9d1d9; font-size: 1.1em;">
     Open to collaborations on AI agents, robotics projects, and production ML systems.
   </p>
 </div>
+
+<hr style="border: none; border-top: 2px solid #30363d; margin: 2.5em 0;">
 
 <div align="center" style="margin-top: 3em;">
   <p style="color: #8b949e; font-size: 0.9em;">
