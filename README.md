@@ -30,7 +30,7 @@ Beyond designing AI systems, I dedicate time to music, physical fitness, and rea
 
 <hr style="border: none; border-top: 2px solid #30363d; margin: 2.5em 0;">
 
-## Professional Experience
+## Current Ongoing Work
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 2em; margin: 2em 0;">
 
