@@ -161,15 +161,6 @@ Beyond designing AI systems, I dedicate time to music, physical fitness, and rea
 
 </div>
 
-<div align="center" style="margin: 2em 0;">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AnubhavKarki&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AnubhavKarki&layout=compact&theme=radical" style="margin-left: 1em;" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnubhavKarki&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true" />
-</div>
-
 <div align="center" style="margin: 3em 0; padding: 2em; background: #161b22; border-radius: 12px; border: 1px solid #30363d;">
   <h3 style="color: #58a6ff; margin-top: 0;">Let's Build the Future</h3>
   <p style="color: #c9d1d9; font-size: 1.1em;">
