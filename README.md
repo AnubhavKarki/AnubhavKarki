@@ -34,50 +34,26 @@ Beyond designing AI systems, I dedicate time to music, physical fitness, and rea
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 2em; margin: 2em 0;">
 
-<div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5em;">
-  <h3 style="color: #58a6ff; margin-top: 0;">ML Engineer</h3>
-  <p style="color: #f0f6fc; font-weight: 500; margin-bottom: 0.5em;">
-    <a href="https://weedscan.org.au/" target="_blank" style="color: #f0f6fc; text-decoration: none;">CISS – Weed Scan Project</a>
-  </p>
-  <p style="color: #8b949e; font-size: 0.95em;">
-    Collaborating with a multidisciplinary team of engineers and scientists from CSIRO to build Weed Scan, a machine learning platform for agricultural monitoring and weed detection.
-  </p>
-</div>
+  <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5em;">
+    <h3 style="color: #58a6ff; margin-top: 0;">ML Engineer</h3>
+    <p style="color: #f0f6fc; font-weight: 500; margin-bottom: 0.5em;">
+      <a href="https://weedscan.org.au/" target="_blank" style="color: #f0f6fc; text-decoration: none;">CISS – Weed Scan Project</a>
+    </p>
+    <p style="color: #8b949e; font-size: 0.95em;">
+      Collaborating with a multidisciplinary team of engineers and scientists from CSIRO to build Weed Scan, a machine learning platform for agricultural monitoring and weed detection.
+    </p>
+  </div>
   
-<div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5em;">
-  <h3 style="color: #58a6ff; margin-top: 0;">Hardware Engineer</h3>
-  <p style="color: #f0f6fc; font-weight: 500; margin-bottom: 0.5em;">
-    <a href="https://strideaustralia.com.au/" target="_blank" style="color: #f0f6fc; text-decoration: none;">Stride Australia</a>
-  </p>
-  <p style="color: #8b949e; font-size: 0.95em;">
-    Programming e-bike head units and integrating advanced camera modules for 
-    real-time computer vision applications in embedded systems.
-  </p>
-</div>
-  
-<div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5em;">
-  <h3 style="color: #58a6ff; margin-top: 0;">Systems Engineer Intern</h3>
-  <p style="color: #f0f6fc; font-weight: 500; margin-bottom: 0.5em;">
-    <a href="https://youincontrol.net/" target="_blank" style="color: #f0f6fc; text-decoration: none;">You.In Control</a>
-  </p>
-  <p style="color: #8b949e; font-size: 0.95em;">
-    Developed home automation systems with IoT integration and real-time 
-    control interfaces for smart residential applications.
-  </p>
-</div>
-
-  
-<div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5em;">
-  <h3 style="color: #58a6ff; margin-top: 0;">ML Engineer Intern</h3>
-  <p style="color: #f0f6fc; font-weight: 500; margin-bottom: 0.5em;">
-    <a href="https://www.cisco.com/site/au/en/index.html" target="_blank" style="color: #f0f6fc; text-decoration: none;">Cisco</a> + 
-    <a href="https://icentralau.com.au/canberra/" target="_blank" style="color: #f0f6fc; text-decoration: none;">ICC (Innovation Central Canberra)</a>
-  </p>
-  <p style="color: #8b949e; font-size: 0.95em;">
-    Built radio-jamming detection systems for Australian defense using 
-    signal processing and machine learning algorithms.
-  </p>
-</div>
+  <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5em;">
+    <h3 style="color: #58a6ff; margin-top: 0;">Hardware Engineer</h3>
+    <p style="color: #f0f6fc; font-weight: 500; margin-bottom: 0.5em;">
+      <a href="https://strideaustralia.com.au/" target="_blank" style="color: #f0f6fc; text-decoration: none;">Stride Australia</a>
+    </p>
+    <p style="color: #8b949e; font-size: 0.95em;">
+      Programming e-bike head units and integrating advanced camera modules for 
+      real-time computer vision applications in embedded systems.
+    </p>
+  </div>
 
 </div>
 
