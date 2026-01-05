@@ -24,9 +24,7 @@
   </p>
   
   <p style="font-size: 1.1em; line-height: 1.7; color: #c9d1d9; margin-top: 1.5em;">
-    When not architecting AI pipelines, you'll find me playing guitar and drums, hitting the gym, 
-    or diving into philosophy and psychology books. I believe great engineering requires both 
-    technical depth and human insight.
+Beyond designing AI systems, I dedicate time to music, physical fitness, and reading in philosophy and psychology. I approach engineering with the conviction that technical mastery is strengthened by human insight.
   </p>
 </div>
 
