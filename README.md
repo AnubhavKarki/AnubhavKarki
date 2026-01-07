@@ -88,7 +88,7 @@ Beyond designing AI systems, I dedicate time to music, physical fitness, and rea
   <div style="text-align: center; padding: 1em; background: #161b22; border: 1px solid #30363d; border-radius: 8px;">
     <h4 style="color: #58a6ff; margin-top: 0;">Full Stack & APIs</h4>
     <p style="color: #8b949e;">
-      Next.js, FastAPI, REST API Development, Streamlit
+      Next.js, FastAPI, Streamlit, REST API Development
     </p>
   </div>
   <div style="text-align: center; padding: 1em; background: #161b22; border: 1px solid #30363d; border-radius: 8px;">
