@@ -101,6 +101,15 @@ Beyond designing AI systems, I dedicate time to music, physical fitness, and rea
 
 <hr style="border: none; border-top: 2px solid #30363d; margin: 2.5em 0;">
 
+<div align="center" style="margin: 3em 0; padding: 2em; background: #161b22; border-radius: 12px; border: 1px solid #30363d;">
+  <h3 style="color: #58a6ff; margin-top: 0;">Let's Build the Future</h3>
+  <p style="color: #c9d1d9; font-size: 1.1em;">
+    Open to collaborations on AI agents, robotics projects, and production ML systems.
+  </p>
+</div>
+
+<hr style="border: none; border-top: 2px solid #30363d; margin: 2.5em 0;">
+
 <div align="center" style="margin-top: 3em;">
   <p style="color: #8b949e; font-size: 0.9em;">
     Canberra, Australia | © 2026 Anubhav Karki
