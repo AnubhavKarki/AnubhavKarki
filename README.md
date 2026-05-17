@@ -66,7 +66,7 @@ Beyond designing AI systems, I dedicate time to music, physical fitness, and rea
        style="margin: 1em 0;" />
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5em; margin: 2em 0;">
+<!-- <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5em; margin: 2em 0;">
   <div style="text-align: center; padding: 1em; background: #161b22; border: 1px solid #30363d; border-radius: 8px;">
     <h4 style="color: #58a6ff; margin-top: 0;">AI Frameworks & Tools</h4>
     <p style="color: #8b949e;">
@@ -97,7 +97,7 @@ Beyond designing AI systems, I dedicate time to music, physical fitness, and rea
       Math & Stats, Systems Design, Embedded Systems
     </p>
   </div>
-</div>
+</div> -->
 
 <hr style="border: none; border-top: 2px solid #30363d; margin: 2.5em 0;">
 
