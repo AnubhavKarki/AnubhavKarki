@@ -3,7 +3,7 @@
     Anubhav Karki
   </h1>
   <p style="font-size: 1.4em; color: #58a6ff; margin: 0;">
-    Lead AI & ML Engineer | Robotics & AI Student | Tech Creator
+    Lead AI & ML Engineer | Robotics & AI Student
   </p>
   
   <p style="font-size: 1.1em; color: #8b949e; margin-top: 1em;">
