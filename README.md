@@ -112,6 +112,6 @@ Beyond designing AI systems, I dedicate time to music, physical fitness, and rea
 
 <div align="center" style="margin-top: 3em;">
   <p style="color: #8b949e; font-size: 0.9em;">
-    Canberra, Australia | © 2026 Anubhav Karki
+    © 2026 Anubhav Karki
   </p>
 </div>
