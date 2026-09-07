@@ -59,16 +59,6 @@ Beyond designing AI systems, I dedicate time to music, physical fitness, and rea
       Collaborated with a multidisciplinary team of engineers and scientists from CSIRO to build WeedScan, a machine learning platform for agricultural monitoring, weed detection, and Australian biosecurity protection.
     </p>
   </div>
-
-  <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5em;">
-    <h3 style="color: #58a6ff; margin-top: 0;">
-      <a href="https://strideaustralia.com.au/" target="_blank" style="color: #58a6ff; text-decoration: none;">Hardware Engineer, Stride Australia</a>
-    </h3>
-    <p style="color: #8b949e; font-size: 0.95em;">
-      Programming e-bike head units and integrating advanced camera modules for real-time computer vision applications in embedded systems.
-    </p>
-  </div>
-
 </div>
 
 <hr style="border: none; border-top: 2px solid #30363d; margin: 2.5em 0;">
