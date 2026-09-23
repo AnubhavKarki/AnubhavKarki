@@ -17,7 +17,7 @@
 
 <div align="center" style="max-width: 800px; margin: 0 auto;">
   <p style="font-size: 1.2em; line-height: 1.8; color: #c9d1d9;">
-    As Lead AI Engineer at <strong>Aryal Technologies</strong> and Data Analyst at <strong>ActewAGL</strong>, 
+    As Lead AI Engineer at <strong>Aryal Technologies</strong> and Data Engineering and Analytics at <strong>ActewAGL</strong>, 
     I design and deploy production-grade AI systems and data-driven insights that solve real-world problems. 
     Currently pursuing my BSc in Engineering (Robotics & AI), I specialize in agentic workflows, 
     RAG architectures, and scalable ML infrastructure.
@@ -36,7 +36,7 @@ Beyond designing AI systems, I dedicate time to music, physical fitness, and rea
 
   <div style="background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5em;">
     <h3 style="color: #58a6ff; margin-top: 0;">
-      <a href="https://www.actewagl.com.au/" target="_blank" style="color: #58a6ff; text-decoration: none;">Data Analyst, ActewAGL</a>
+      <a href="https://www.actewagl.com.au/" target="_blank" style="color: #58a6ff; text-decoration: none;">Data Engineering and Analytics, ActewAGL</a>
     </h3>
     <p style="color: #8b949e; font-size: 0.95em;">
       Supporting data-driven pricing decisions and regulatory reporting within the Pricing, Analytics and Regulatory team at ActewAGL Retail.
